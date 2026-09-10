@@ -1,5 +1,15 @@
 # Advertising Hooks
 
+## Evidence and Claims Rule
+
+Examples in this file are illustrative unless explicitly identified as real case studies.
+
+When generating hooks:
+- Never invent statistics, revenue figures, customer counts, conversion rates, testimonials, or performance results.
+- Only use specific numerical claims when they are provided by the user or supported by verified evidence.
+- If an example contains a number purely to demonstrate a formula, treat the number as fictional and do not reuse it as a factual claim.
+- Do not create false urgency, false scarcity, or misleading guarantees.
+
 ## Purpose of a Hook
 
 The hook is the first part of an ad designed to earn attention and create enough interest for the viewer to continue watching, reading, or listening.
@@ -405,6 +415,163 @@ This combines curiosity with exclusivity.
 Do not imply secret knowledge unless the content actually provides something useful.
 
 ---
+
+## 21. Negative-Specificity Hook
+
+What it is:
+
+Describe the audience's current problems with high specificity and accuracy rather than making an exaggerated promise about the future.
+
+Be highly specific about the negative situation and more restrained about the positive claim.
+
+Why it works:
+
+Accurately describing someone's problem creates recognition:
+
+"That's exactly what I'm dealing with."
+
+If the creator demonstrates unusually strong understanding of the problem, the audience becomes more likely to believe that the creator may also understand the solution.
+
+This can be more credible than promising dramatic outcomes.
+
+When to use it:
+
+When targeting a clearly defined niche.
+
+When the audience is skeptical of big promises.
+
+When marketing to experienced buyers.
+
+When you deeply understand recurring customer pain points.
+
+Examples:
+
+"You're getting leads, but half never respond and the other half aren't qualified."
+
+"Your videos get views, but almost nobody remembers who made them."
+
+"Your landing page isn't broken — people just don't understand the offer fast enough."
+
+"Your ads are getting clicks while your checkout quietly destroys the conversion."
+
+Common mistakes:
+
+Describing generic problems that apply to everyone.
+
+Using pain points that do not match the target audience.
+
+Overdramatizing the negative situation.
+
+Immediately following the diagnosis with an unrealistic promise.
+
+--- 
+
+## 22. Increasing-Deprivation Hook
+
+What it is
+
+Show the audience that an existing problem becomes worse, more expensive, or harder to fix when ignored.
+
+Core pattern:
+
+You already have [problem], and waiting makes [consequence] worse.
+
+Why it works:
+
+A normal problem creates interest.
+
+A problem that compounds over time creates urgency.
+
+The audience realizes that doing nothing is itself a decision with a cost.
+
+This raises the perceived importance of learning the solution immediately.
+
+When to use it:
+
+When the problem genuinely compounds.
+
+When delays create lost revenue, customers, opportunities, time, or performance.
+
+When discussing operational bottlenecks.
+
+When addressing preventable problems.
+
+Examples:
+
+"Every extra second your website takes to load is costing you customers."
+
+"Ignoring these tracking errors makes your ad data less useful every week."
+
+"The longer you keep generating leads this way, the more money you're wasting."
+
+"This small conversion problem gets much more expensive as your traffic grows."
+
+Common mistakes:
+
+Creating fake urgency.
+
+Claiming consequences grow when they actually remain constant.
+
+Using excessive fear.
+
+Failing to quantify or explain the consequence.
+
+---
+
+# Advanced Hook Principles
+
+## Avatar-Language Hook Rule
+
+### What it is:
+
+Use terminology that reflects the result and wording the target audience naturally cares about rather than internal or technical terminology.
+
+When uncertain, ask the target audience which phrasing they prefer.
+
+### Why it works:
+
+Different phrases describing the same underlying offer can attract very different people.
+
+Audience language improves recognition and makes the hook feel personally relevant.
+
+It can also improve lead quality because wording acts as a form of audience selection.
+
+### When to use it:
+
+Naming offers or lead magnets.
+Writing ads.
+Creating social hooks.
+Targeting a narrow demographic.
+When several phrases could describe the same outcome.
+
+### Examples:
+
+A technical description:
+
+"Six-Week Resistance Training Program"
+
+could become:
+
+"Six Weeks to Stronger, More Defined Glutes"
+
+Likewise:
+
+"Automated CRM Lead-Nurture Workflow"
+
+could become:
+
+"Never Let a Hot Lead Go Cold Again."
+
+### Common mistakes:
+
+Choosing terminology based on what the creator likes.
+
+Using technical language customers rarely use.
+
+Polling people outside the intended audience.
+
+Optimizing purely for the most attention rather than attracting the right customer.
+
 
 # Short-Form Video Hook Structure
 
